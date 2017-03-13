@@ -9,3 +9,14 @@ It takes in a job-seekers skillset and desired work locations, and then outputs 
 
 INSTRUCTIONS TO RUN:
 It is a single page application. Open the GoogleMapsPlotting.html file in the browser to run. Please be connected to the Internet and disable ad-blockers.
+
+Locations should be with in US (if specified). Skill set should be one among these : python, scala, javascript, hadoop, data scientist, web application. 
+
+Eg:
+i) Hey, can you tell me the scope for python developers in New York?
+
+ii) What's the scope for JavaScript developers? 
+
+iii) How good is Seattle for javascript developers? 
+
+AI bot is intelligent enough to understand your language and it extracts the skills and locations specified to map the result.  
